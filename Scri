@@ -1,0 +1,6 @@
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tulam2000/Min/main/Mindeptrai"))()
+
+
+loadstring(game:HttpGet'https://raw.githubusercontent.com/Padupo/scrnohop/main/creqtiengviet2')()
